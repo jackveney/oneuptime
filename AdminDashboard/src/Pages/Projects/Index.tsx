@@ -190,7 +190,7 @@ const Projects: FunctionComponent = (): ReactElement => {
         isViewable={false}
         cardProps={{
           title: "Projects",
-          description: "Here is a list of proejcts in OneUptime.",
+          description: "Here is a list of projects in OneUptime.",
         }}
         showViewIdButton={true}
         formSteps={
